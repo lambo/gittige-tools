@@ -1,6 +1,5 @@
 # Gittige Tools
 
-<<<<<<< HEAD
 Zunächst mal, was gibt's überhaupt?
 =======
 ## Einleitung
@@ -11,7 +10,6 @@ Eine mögliche Lösung dieser Problematiken könnte in der Nutzung von Versionsk
 - Beobachtungen über Schreibwerkzeuge mit Git oder Git-ähnlichen Eigenschaften (Versionen, Forks etc.)
 
 ## Zunächst mal, was gibt's überhaupt?
->>>>>>> 2fe5786f60f12e6929bf518bbe97caab4e5c60df
 
 - Authorea
 - Github
