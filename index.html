@@ -1,48 +1,65 @@
 <!DOCTYPE html>
 <html>
+
   <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <title>Gittige Tools by lambo</title>
+    <meta charset='utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="description" content="Gittige Tools : Beobachtungen über Schreibwerkzeuge mit Git oder Git-ähnlichen Eigenschaften (Versionen, Forks etc.)" />
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>Gittige Tools</title>
   </head>
 
   <body>
-    <div id="container">
-      <div class="inner">
 
-        <header>
-          <h1>Gittige Tools</h1>
-          <h2>Beobachtungen über Schreibwerkzeuge mit Git oder Git-ähnlichen Eigenschaften (Versionen, Forks etc.)</h2>
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/lambo/gittige-tools">View on GitHub</a>
+
+          <h1 id="project_title">Gittige Tools</h1>
+          <h2 id="project_tagline">Beobachtungen über Schreibwerkzeuge mit Git oder Git-ähnlichen Eigenschaften (Versionen, Forks etc.)</h2>
+
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/lambo/gittige-tools/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/lambo/gittige-tools/tarball/master">Download this project as a tar.gz file</a>
+            </section>
         </header>
+    </div>
 
-        <section id="downloads" class="clearfix">
-          <a href="https://github.com/lambo/gittige-tools/zipball/master" id="download-zip" class="button"><span>Download .zip</span></a>
-          <a href="https://github.com/lambo/gittige-tools/tarball/master" id="download-tar-gz" class="button"><span>Download .tar.gz</span></a>
-          <a href="https://github.com/lambo/gittige-tools" id="view-on-github" class="button"><span>View on GitHub</span></a>
-        </section>
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h1>Gittige Tools</h1>
 
-        <hr>
+<h2>Einleitung</h2>
 
-        <section id="main_content">
-          <h1>Gittige Tools</h1>
+<p>Wissenschaftliches Publizieren funktioniert heute ungeachtet der durch das Internet verursachten digitalen Revolution im wesentlichen genau so wie vor 50 Jahren: AutorInnen schreiben - allein oder gemeinsam - an Artikeln, die dann schließlich nach eventuellen Begutachtungsprozessen in einer finalen Form veröffentlicht werden. Nicht dokumentiert ist, wer bei einer Arbeit mehrerer AutorInnen welchen Teil geschrieben hat. Auch sind Änderungen am Dokument nach Veröffentlichung in den meisten Fällen nicht möglich, ebenso die problemlose Nachnutzung durch Dritte.</p>
 
-<p>Beobachtungen über Schreibwerkzeuge mit Git oder Git-ähnlichen Eigenschaften (Versionen, Forks etc.)</p>
+<p>Eine mögliche Lösung dieser Problematiken könnte in der Nutzung von Versionskontrollsystemen (*version control system*, VCS) liegen, wie sie in der Open-Source-Software-Entwicklung seit einiger Zeit genutzt werden. Systeme, deren Funktionsumfang die reine Versionierung meist bei weitem überschreitet.</p>
 
-<p>Zunächst mal, was gibt's überhaupt?</p>
+<ul>
+<li>Beobachtungen über Schreibwerkzeuge mit Git oder Git-ähnlichen Eigenschaften (Versionen, Forks etc.)</li>
+</ul><h2>Zunächst mal, was gibt's überhaupt?</h2>
 
 <ul>
 <li>Authorea</li>
 <li>Github</li>
+<li>SciGit</li>
 <li>Editoren, die mit Git oder Github arbeiten (z.B. prose.io)</li>
-<li>Versionieren von Dateien ohne Diff etc. (z.B. Dropbox)</li>
-</ul><p>Welche praktiken gibt es? (Sachen, die man aus der "normalen" Textverarbeitung nicht kennt)</p>
+<li>Versionieren von Dateien ohne Diff etc. (z.B. Dropbox, <a href="http://support.google.com/drive/bin/answer.py?hl=de&amp;answer=190843">Google Drive-Versionierung</a>)</li>
+<li>Lokale Lösungen wie 
+
+<ul>
+<li>[msofficesvn] (beruht auf TortoiseSVN, das ohnehin mit MS Word- und Excel-Inhalten umgehen kann</li>
+<li>
+<a href="http://freemind.s57.xrea.com/xdocdiff/e/index.html">xdocdiff</a> </li>
+</ul>
+</li>
+</ul><h2>Welche Praktiken gibt es?</h2>
+
+<p>(Sachen, die man aus der "normalen" Textverarbeitung nicht kennt)</p>
 
 <ul>
 <li>Commits</li>
@@ -51,22 +68,27 @@
 <li>Forks</li>
 <li>Pull Requests</li>
 <li>soziale Funktionen bei Github wie Star, Follow etc.</li>
-</ul><p>Dies &amp; das</p>
+</ul><h2>Dies &amp; das</h2>
 
 <ul>
 <li>Vergleich verschiedener Arten, gemeinsam Texte zu schreiben: Geschlossenes Team, Wikipedia-style und Pull-request-style</li>
 <li>"Remixen" von Text</li>
 <li>Was verändert sich wenn man Texte forken und ständig "weiterentwickeln" kann, ähnlich wie Software? Stichworte: Review, "Version of record", Archivierung</li>
-</ul>
-        </section>
+</ul><h2>Links &amp; Literatur</h2>
 
-        <footer>
-          Gittige Tools is maintained by <a href="https://github.com/lambo">lambo</a><br>
-          This page was generated by <a href="http://pages.github.com">GitHub Pages</a>. Tactile theme by <a href="http://twitter.com/jasonlong">Jason Long</a>.
-        </footer>
-
-        
-      </div>
+<p>Ram, Karthik: git can facilitate greater reproducibility and increased transparency in science. <a href="http://dx.doi.org/10.1186/1751-0473-8-7">http://dx.doi.org/10.1186/1751-0473-8-7</a></p>
+      </section>
     </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">Gittige Tools maintained by <a href="https://github.com/lambo">lambo</a></p>
+        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+    
+
   </body>
 </html>
