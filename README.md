@@ -1,7 +1,5 @@
 # Gittige Tools
 
-Zunächst mal, was gibt's überhaupt?
-=======
 ## Einleitung
 Wissenschaftliches Publizieren funktioniert heute ungeachtet der durch das Internet verursachten digitalen Revolution im wesentlichen genau so wie vor 50 Jahren: AutorInnen schreiben - allein oder gemeinsam - an Artikeln, die dann schließlich nach eventuellen Begutachtungsprozessen in einer finalen Form veröffentlicht werden. Nicht dokumentiert ist, wer bei einer Arbeit mehrerer AutorInnen welchen Teil geschrieben hat. Auch sind Änderungen am Dokument nach Veröffentlichung in den meisten Fällen nicht möglich, ebenso die problemlose Nachnutzung durch Dritte.
 
