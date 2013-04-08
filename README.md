@@ -40,7 +40,7 @@ Im folgenden sollen die gemeinsamen Prinzipien verteilter Versionskontrollsystem
 ## Links & Literatur
 * Ram, Karthik: git can facilitate greater reproducibility and increased transparency in science. http://dx.doi.org/10.1186/1751-0473-8-7
 * Pritlove, Tim: [Verteilte Versionskontrollsysteme](http://cre.fm/cre130). 2. August 2009, Podcast
+* Ruparelia, Nayan B.: The History of Version Control. http://doi.acm.org/10.1145/1668862.1668876
 
-[Google Drive-Versionierung]: http://support.google.com/drive/bin/answer.py?hl=de&answer=190843
-[msofficesvn]: http://code.google.com/p/msofficesvn/
-[xdocdiff]: http://freemind.s57.xrea.com/xdocdiff/e/index.html
+
+
