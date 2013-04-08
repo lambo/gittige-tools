@@ -23,7 +23,6 @@ Im folgenden sollen die gemeinsamen Prinzipien verteilter Versionskontrollsystem
 - Pull Requests
 - soziale Funktionen bei Github wie Star, Follow etc.
 
-
 ### Was verändert sich wenn man Texte forken und ständig "weiterentwickeln" kann, ähnlich wie Software? Stichworte: Review, "Version of record", Archivierung
 
 Im Report "Defining and certifying electronic publication in science", S. 251:
@@ -38,18 +37,14 @@ Im Report sind Kriterien genannt, die für eine "richtige Publikation" erfüllt 
 - "Remixen" von Text
 - Hinweis auf virtuelle Forschungsumgebungen
 
-
+## Probleme
+- Autorenwunsch nach finaler Version
+- ungewohnter Arbeitsstil, vermutlich geringe Akzeptanz(?)
 
 ## Links & Literatur
 * Frankel, Mark S.; Elliott, Roger; Blume, Martin; Bourgois, Jean-Manuel; Hugenholtz, Bernt; Lindquist, Mats G.; Morris, Sally; Sandewall, Erik: Defining and certifying electronic publication in science. http://dx.doi.org/10.1087/09531510050162093
 * Morris, Sally: ‘Version control’ of journal articles. http://www.niso.org/workrooms/jav/Morris.pdf
-* National Information Standards Organization: Journal Article Versions (JAV) - Recommendations of the
-NISO/ALPSP JAV Technical Working Group, April 2008. http://www.niso.org/publications/rp/RP-8-2008.pdf
+* National Information Standards Organization: Journal Article Versions (JAV) - Recommendations of the NISO/ALPSP JAV Technical Working Group, April 2008. http://www.niso.org/publications/rp/RP-8-2008.pdf
 * Pritlove, Tim: [Verteilte Versionskontrollsysteme](http://cre.fm/cre130). 2. August 2009, Podcast
 * Ram, Karthik: git can facilitate greater reproducibility and increased transparency in science. http://dx.doi.org/10.1186/1751-0473-8-7
 * Ruparelia, Nayan B.: The History of Version Control. http://doi.acm.org/10.1145/1668862.1668876
-
-
-
-
-
