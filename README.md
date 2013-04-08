@@ -10,14 +10,7 @@ Im folgenden sollen die gemeinsamen Prinzipien verteilter Versionskontrollsystem
 
 ## Zunächst mal, was gibt's überhaupt?
 
-- Authorea
-- Github
-- SciGit
-- Editoren, die mit Git oder Github arbeiten (z.B. prose.io)
-- Versionieren von Dateien ohne Diff etc. (z.B. Dropbox, [Google Drive-Versionierung])
-- Lokale Lösungen wie 
- - [msofficesvn] (beruht auf TortoiseSVN, das ohnehin mit MS Word- und Excel-Inhalten umgehen kann
- - [xdocdiff] 
+- [Dienste und Tools]{dienste-und-tools.md}
 
 ## Welche Praktiken gibt es? 
 (Sachen, die man aus der "normalen" Textverarbeitung nicht kennt)
