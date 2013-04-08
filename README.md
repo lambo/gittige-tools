@@ -10,7 +10,7 @@ Im folgenden sollen die gemeinsamen Prinzipien verteilter Versionskontrollsystem
 
 ## Zunächst mal, was gibt's überhaupt?
 
-- [Dienste und Tools]{dienste-und-tools.md}
+- [Dienste und Tools](dienste-und-tools.md)
 
 ## Welche Praktiken gibt es? 
 (Sachen, die man aus der "normalen" Textverarbeitung nicht kennt)
