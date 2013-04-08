@@ -8,12 +8,16 @@ Eine Lösung dieser Problematiken könnte in der Nutzung von Versionskontrollsys
 
 Im folgenden sollen die gemeinsamen Prinzipien verteilter Versionskontrollsysteme und ihrer Anwendung durch Autoren vorgestellt werden.
 
-## Zunächst mal, was gibt's überhaupt?
+## Stand der Entwicklung
+
+Die zunehmende Popularität von Versionskontrollsystemen ist sichtbar an verschiedenen Dienste und Werkzeugen sowie in der Behandlung des Themas in der Fachliteratur (*siehe ...*).
 
 - [Dienste und Tools](dienste-und-tools.md)
+- "Stand der Forschung": Kurze Zusammenfassung der Literaturangaben sowie kurzer Hinweis auf die Geschichte von VCS
 
-## Welche Praktiken gibt es? 
-(Sachen, die man aus der "normalen" Textverarbeitung nicht kennt)
+## Funktionen und Nutzen
+
+(Theoretischer Hintergund: was zeichnet VCS aus, Sachen, die man aus der "normalen" Textverarbeitung nicht kennt)
 
 - Versionen
 - Diffs
