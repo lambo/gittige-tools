@@ -52,3 +52,4 @@ Im Report sind Kriterien genannt, die für eine "richtige Publikation" erfüllt 
 * Pritlove, Tim: [Verteilte Versionskontrollsysteme](http://cre.fm/cre130). 2. August 2009, Podcast
 * Ram, Karthik: git can facilitate greater reproducibility and increased transparency in science. http://dx.doi.org/10.1186/1751-0473-8-7
 * Ruparelia, Nayan B.: The History of Version Control. http://doi.acm.org/10.1145/1668862.1668876
+* Rogers, Mikael: [The GitHub Revolution: Why We’re All in Open Source Now](http://www.wired.com/opinion/2013/03/github/). Wired
